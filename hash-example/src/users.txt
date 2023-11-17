@@ -1,0 +1,1 @@
+{username: "tyler", salt: "$2a$10$wJgIXX/W8Fb6Q9gVfy.Q.u", hash: "$2a$10$FJYz9yvJBz1TedQ/Ysco1OtWTiHv2xelLPxuzFEobARH9DjS2J22G"}
